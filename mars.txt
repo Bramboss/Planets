@@ -3,4 +3,4 @@ There are two moons.
 
 This is cleaner
 
-Tis is the first step to my thesis.
+This is the checkout version
