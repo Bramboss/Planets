@@ -6,3 +6,5 @@ This is cleaner
 This is the checkout version
 
 One more change
+
+This change is for GitHub
